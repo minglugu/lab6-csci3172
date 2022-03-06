@@ -93,4 +93,4 @@ The following is the information about this Lab6
    https://reactnative.dev/docs/colors
 
 # how to check the functions of the website
-Heroku app deployed URL: 
+Heroku app deployed URL: https://lab6-birthday-reminder.herokuapp.com/
